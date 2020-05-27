@@ -1,0 +1,28 @@
+#titulo {
+    font-weight: bold;
+    margin-bottom: 30px;
+    color: #87ad13;
+    text-align: center !important;
+}
+
+#container {
+    text-align: center !important;
+}
+
+#borde {
+    border: solid;
+    border-radius: 100px;
+    width: 50%;
+    margin-left: 25%;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+#nombre {
+    color: #117a8b;
+}
+
+#email {
+    font-weight: bold;
+    color: crimson;
+}
